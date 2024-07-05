@@ -1,13 +1,16 @@
-# WorkFlow
-update config.yaml
-update schema.yaml
-update params.yaml
-update the entity     ## entity in -- configuration manager
-update the configuration manager in src config
-update the components
-update the pipeline   ## configuration + components in Pipeline
-update the main.py
-update the app.py
+# My-End-ML-Project
+
+## Workflow
+
+1. Update `config.yaml`
+2. Update `schema.yaml`
+3. Update `params.yaml`
+4. Update the entity in the configuration manager
+5. Update the configuration manager in `src/config`
+6. Update the components
+7. Update the pipeline (configuration + components)
+8. Update `main.py`
+9. Update `app.py`
 
 # My-End-Ml-Proj--
 
