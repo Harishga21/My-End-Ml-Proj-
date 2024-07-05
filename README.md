@@ -17,18 +17,32 @@
 To create a folder -- echo. > template.py
 
 # How to run?
-
+ 
+ ```bash
  conda create -n newmlproj python=3.8 -y 
+```
+ 
+  ```bash
  conda activate mlproj
+ ```
+ 
+ ```bash
  pip install -r requirements.txt
+ ```
+ 
+  ```bash
  python app.py
- Now open up your local host 0.0.0.0:8080
+ ```
 
+```bash
+ Now open up your local host 0.0.0.0:8080
+```
 
  # Zip file(Wine Quality Dataset)
 
+```bash
 https://github.com/Harishga21/mlproject/raw/main/winequality.zip
-
+```
 
  ```bash
  Now Open up your local host 0.0.0.0:8080
