@@ -21,7 +21,7 @@ To create a folder -- echo. > template.py
  ```bash
  conda create -n newmlproj python=3.8 -y 
 ```
- 
+
   ```bash
  conda activate mlproj
  ```
