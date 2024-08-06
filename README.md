@@ -38,7 +38,7 @@ To create a folder -- echo. > template.py
  Now open up your local host 0.0.0.0:8080
 ```
 
- # Zip file(Wine Quality Dataset)
+ # Zip file(Wine Quality Dataset) Red
 
 ```bash
 https://github.com/Harishga21/mlproject/raw/main/winequality.zip
@@ -47,3 +47,8 @@ https://github.com/Harishga21/mlproject/raw/main/winequality.zip
  ```bash
  Now Open up your local host 0.0.0.0:8080
 ```
+
+```bash
+Wine Quality dataset
+```
+
